@@ -111,8 +111,8 @@ data _null_;
   hh.defineData(all: 'yes');
   hh.definedone() ;
 
-  set %do_over(vars,phrase=y?);
-  key=_n_;
+  set havComVue;
+  
   hh.output(dataset:"wantNon(drop=&vars drop=key)");
   hh.output(dataset:"wantCom(keep=&vars)");
 
