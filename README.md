@@ -7,6 +7,11 @@ Append and split tables into two tables one with common variables and one withou
     https://tinyurl.com/ydacr22p
     https://github.com/rogerjdeangelis/utl-append-and-split-tables-into-two-tables-one-with-common-variables-and-one-without-dosubl-hash
 
+    macros
+    https://tinyurl.com/y9nfugth
+    https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
+
+
     The solution below is an academic exercise use Bartosz more 'production'
     friendly code. On end.
 
